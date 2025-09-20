@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/plexl/static/css/main.ec52b5a1.css",
+    "main.js": "/plexl/static/js/main.ee8e9b77.js",
+    "static/js/453.691ecd46.chunk.js": "/plexl/static/js/453.691ecd46.chunk.js",
+    "static/media/main.hero.jpg": "/plexl/static/media/main.hero.4eba6ef5a115f06c9d12.jpg",
+    "index.html": "/plexl/index.html",
+    "main.ec52b5a1.css.map": "/plexl/static/css/main.ec52b5a1.css.map",
+    "main.ee8e9b77.js.map": "/plexl/static/js/main.ee8e9b77.js.map",
+    "453.691ecd46.chunk.js.map": "/plexl/static/js/453.691ecd46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec52b5a1.css",
+    "static/js/main.ee8e9b77.js"
+  ]
+}
